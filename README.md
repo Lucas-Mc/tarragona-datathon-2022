@@ -1,2 +1,4 @@
-# tarragona_datathon_2022
-Tarragona Datathon 2022
+## Tarragona Datathon 2022
+
+### Statement of problem:
+Many patients with sepsis in the ICU are given blood transfusions for low hemoglobin levels. Restrictive transfusion strategies  using hemoglobin thresholds of 7.0 g/dL have been shown to be better than “liberal” strategies of transfusing to a hemoglobin of 9.0 g/dL or higher, because there are risks associated with transfusion. However, in practice, the threshold to transfuse  is not strictly followed, and physicians frequently prescribe above the 7.0 g/dL threshold. There are two objectives of this project: 1) to determine whether there are disparities in the transfusion threshold across demographics, including race ethnicity, in the ICU; and 2) to develop a calculator that suggests the hemoglobin threshold below which a patient should be transfused.
